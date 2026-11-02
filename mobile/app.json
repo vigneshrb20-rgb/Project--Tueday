@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Project Tuesday",
+    "slug": "project-tuesday",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": { "package": "com.projecttuesday.assistant", "versionCode": 1 },
+    "extra": { "eas": { "projectId": "REPLACE_WITH_YOUR_EXPO_PROJECT_ID" } }
+  }
+}
